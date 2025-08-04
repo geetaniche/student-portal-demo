@@ -4,11 +4,9 @@ This is a basic idea for a Student Portal application.
 - Student Login & Registration
 - View and edit profile
 - View course details and timetable
-- Submit assignments and view grades
 - Announcements and notifications from faculty
 ## Technologies (planned)
 - HTML/CSS for frontend
-- JavaScript or React (optional)
 - Python with Flask/Django for backend
 - SQLite or MySQL for database
 ## Purpose
